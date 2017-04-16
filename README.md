@@ -1,4 +1,4 @@
-# DataVizForAll_Final_IB
+# DataVizForAll_Final_Indar
 
 <a href="https://ibhola.github.io/DataVizForAll_Final_IB/" target="_blank">View on web</a>
 <p/>
