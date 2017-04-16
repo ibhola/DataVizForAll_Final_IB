@@ -1,4 +1,4 @@
-# DataVizForAll_Final_Indar
+# DataVizForAll_Final_IB
 
 <a href="https://ibhola.github.io/DataVizForAll_Final_IB/" target="_blank">View on web</a>
 <p/>
@@ -10,7 +10,7 @@ Using the DataVizforAll enrollment data <cite> <a href="https://docs.google.com/
 <p/>
 The source data was grouped and summarized <a href="https://docs.google.com/spreadsheets/d/1xjRvft0Mt2Xb4r4Vy1wCGKezJ1LeDjmQspXxHduM-pg/pubhtml" target="_blank">here.</a><br/>
 The result from the data:
-<iframe src="https://docs.google.com/spreadsheets/d/1xjRvft0Mt2Xb4r4Vy1wCGKezJ1LeDjmQspXxHduM-pg/pubchart?oid=1060235457&format=interactive" width="95%" height="400"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1xjRvft0Mt2Xb4r4Vy1wCGKezJ1LeDjmQspXxHduM-pg/pubchart?oid=1060235457&format=interactive" width="85%" height="400"></iframe>
 
 The resulting data chart, above, shows that
 <ul>
