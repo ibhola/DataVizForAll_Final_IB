@@ -1,6 +1,6 @@
 # DataVizForAll_Final_IB
 
-<a href="https://ibhola.github.io/DataVizForAll_Final_IB/">View om web</a>
+<a href="https://ibhola.github.io/DataVizForAll_Final_IB/" target='_blank'>View on web</a>
 <p/>
 Using the DataVizforAll enrollment data <cite> <a href='https://docs.google.com/spreadsheets/d/1egX_akJccnCSzdk1aaDdtrEGe5HcaTrlOW-Yf6mJ3Uo/edit#gid=70869349' target='_blank'> provided by the Lecturers</a> </cite>suggested the following questions:
 <ul>
