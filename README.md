@@ -12,9 +12,11 @@ The data was grouped and summarized <a href="https://docs.google.com/spreadsheet
 The result from the data:
 <iframe src="https://docs.google.com/spreadsheets/d/1xjRvft0Mt2Xb4r4Vy1wCGKezJ1LeDjmQspXxHduM-pg/pubchart?oid=1060235457&format=interactive" width="90%" height="400"></iframe>
 
-The resulting data chart shows that
+The resulting data chart, above, shows that
 <ul>
-<li> The majority of the students were in Information Technology followed by Students most likely in college/university</li>
+<li> The majority of the students were in Information Technology followed by <br/>Students most likely in college/university</li>
 <li> The majority had more years of education than just college</li>
 </ul>
+THe visual, even when the goals of the students are not directly considered, would indicate that since most student have more than high-school education, the purpose of doing the course is either for curiousity, educational enhancement or some form of personal development.
 
+<b>Personal 
